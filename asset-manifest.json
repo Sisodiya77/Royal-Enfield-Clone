@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.80481269.css",
-    "main.js": "/static/js/main.330dc6da.js",
-    "static/js/787.f102b7dc.chunk.js": "/static/js/787.f102b7dc.chunk.js",
-    "static/media/RE2.png": "/static/media/RE2.2ddb39b4bf553ca2a2f0.png",
-    "index.html": "/index.html",
-    "main.80481269.css.map": "/static/css/main.80481269.css.map",
-    "main.330dc6da.js.map": "/static/js/main.330dc6da.js.map",
-    "787.f102b7dc.chunk.js.map": "/static/js/787.f102b7dc.chunk.js.map"
+    "main.css": "/Royal-Enfield-Clone/static/css/main.80481269.css",
+    "main.js": "/Royal-Enfield-Clone/static/js/main.cab82757.js",
+    "static/js/787.f102b7dc.chunk.js": "/Royal-Enfield-Clone/static/js/787.f102b7dc.chunk.js",
+    "static/media/RE2.png": "/Royal-Enfield-Clone/static/media/RE2.2ddb39b4bf553ca2a2f0.png",
+    "index.html": "/Royal-Enfield-Clone/index.html",
+    "main.80481269.css.map": "/Royal-Enfield-Clone/static/css/main.80481269.css.map",
+    "main.cab82757.js.map": "/Royal-Enfield-Clone/static/js/main.cab82757.js.map",
+    "787.f102b7dc.chunk.js.map": "/Royal-Enfield-Clone/static/js/787.f102b7dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80481269.css",
-    "static/js/main.330dc6da.js"
+    "static/js/main.cab82757.js"
   ]
 }
